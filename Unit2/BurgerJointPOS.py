@@ -67,10 +67,12 @@ while orderComplete == False:
     elif menu == "Sides":
         print("sides")
         #Add your Code/Comments Here for sides
+        #Add at least three sides
         
     elif menu == "Drinks":
         print("drinks")
         #Add Your code/Comments here for Drinks
+        #Add at least three drinks
     
     elif menu == "Complete Order":
         #IF THEY SELECT COMPLETE ORDER, SET THE ORDERCOMPLETE TO TRUE
