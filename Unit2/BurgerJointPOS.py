@@ -55,6 +55,11 @@ while orderComplete == False:
             print("You added Western Burger to your order")
             print("Your total cost so far: $", totalCost)
         
+        #BURGER 4: ADD ONE HERE
+            #ADD A NEW BURGER OPTION AND UPDATE ALL CODE ABOVE TO MAKE IT WORK
+
+
+            
         #IF THEY GET HERE, THEY DID NOT MAKE A VALID SELECTION
         else:
             print("please make a valid choice")
