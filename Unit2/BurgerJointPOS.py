@@ -83,8 +83,8 @@ while orderComplete == False:
         print("order finished")
         print("You have ordered")
         print("Subtotal: $", totalCost)
-        totalTax = float(totalCost) * totalTax
-        print("Total Tax: $", tax)
+        totalTax = float(totalCost) * tax
+        print("Total Tax: $", totalTax)
         print("Grand Total: $")
         #Finish this section to give you a grand total as well as print your complete order
  
