@@ -1,6 +1,6 @@
 #BEGONE BLOCK!
 
-#Copy this code into your VS Code and run it. Figure out how it playes
+#Copy this code into your VS Code and run it. Figure out how it plays
 #Read the code below, understand it, add worthwhile and meaningful comments to all classes, functions, and anywhere else you deem important (minimum of 10 new comments)
 #Change AT LEAST 5 (FIVE) things about the game
 
