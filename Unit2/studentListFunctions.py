@@ -32,8 +32,7 @@ def searchList(n___):
     for i in range(len(students_signed_up_for_senior_trip)):
         if students_signed_up_for_senior_trip[i] == name:
             return "y__"
-        else:
-            return "__"
+         return "no"
         
 #This function prints the list to the terminal for viewing
 def printList():
