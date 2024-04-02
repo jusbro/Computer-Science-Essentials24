@@ -20,7 +20,7 @@ students_signed_up_for_senior_trip = ["John", "Mary", "David", "Emily", "Michael
 
 #This function returns the length of the list
 def getNumStudents():
-    number_of_students_going_on_senior_trip = students_signed_up_for_senior_trip.len()
+    number_of_students_going_on_senior_trip = len(students_signed_up_for_senior_trip)
     return number_of_students_going_on_senior_trip
 
 #This code adds a student to the list
@@ -32,7 +32,7 @@ def searchList(n___):
     for i in range(len(students_signed_up_for_senior_trip)):
         if students_signed_up_for_senior_trip[i] == name:
             return "y__"
-         return "no"
+    return "no"
         
 #This function prints the list to the terminal for viewing
 def printList():
